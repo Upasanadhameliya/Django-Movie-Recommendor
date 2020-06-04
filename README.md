@@ -19,3 +19,11 @@ In case you need to update the movie dataset, the model would have to be retrain
 ##### Run and deploy
 1. Clone and download the repository
 2. (Do this just once!) Uncomment the three functions in the top level `urls.py` : `imdbscript.get_movies()` , `content_script.get_movies()`, `model_creation.create()`
+   - This is only to get the data in the database from the imdb api and to train your model to predict movies.
+   - It might take a few hours: approx 6hrs.
+   - Comment the functions once again as soon as the website is up else you might get stuck with duplicate
+      entries.
+      
+After following the above steps, you would have the website up and running.
+
+<img src="Screenshots/Screenshot6.png" width=900 height=500/>
