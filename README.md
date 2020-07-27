@@ -1,6 +1,7 @@
 # Django-Movie-Recommendor (Machine Learning)
  Movie Website built on python Django framework.
  Uses ***Content Based Predictive Model*** approach to predict similar movies based on the contents/genres similarities.
+ Check out how the website looks on <a href="https://www.youtube.com/watch?v=27hAW7X7GyM&t=47s">this Link</a>
  
 <img src="Screenshots/Screenshot2.png" width=900 height=500/>
 
